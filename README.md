@@ -1,0 +1,2 @@
+# Wakanda(Black-Panther)-Translation
+ 
