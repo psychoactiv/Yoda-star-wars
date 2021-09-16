@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Pacifico&display=swap");
+
+body {
+  font-family: "Hammersmith One";
+  text-align: center;
+  font-size: 50px;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #1a0554;
+  color: turquoise;
+}
+
+::placeholder {
+  font-family: "Hammersmith One";
+  text-align: center;
+  font-size: 30px;
+}
+
+.box {
+  border: 2px solid black;
+  border-radius: 40px;
+  margin: auto;
+  padding: 2px;
+  width: 1200px;
+  height: 400px;
+  background-color: white;
+  margin-bottom: 100px;
+  text-align: center;
+  color: #1a0554;
+}
+
+textarea {
+  height: 10%;
+  margin-bottom: 100px;
+  border-radius: 40px;
+  color: #1a0554;
+}
+
+.inline-element {
+  display: inline-block;
+  margin: 0px 20px;
+}
+
+div h1 {
+  margin: 3px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-1 {
+  border: 2px solid #301934;
+  background: #950ec6;
+  height: 50px;
+  width: 150px;
+  font-size: 60%;
+  border-radius: 7px;
+  color: white;
+  cursor: pointer;
+  font-family: "Hammersmith One";
+}
+
+.btn-1:hover {
+  background: #bc6ed4;
+}
+
+nav {
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: #a4508b;
+  background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+  border-radius: 0px 0px 70px 70px;
+  color: #d1cae7;
+  margin-top: 0px;
+}
+
+.footer {
+  background-color: #c4a8ff;
+  color: blueviolet;
+}
+
+ul {
+  margin: auto;
+  padding: 0px;
+}
+
+div {
+  height: 100px;
+}
+
+#area {
+  font-family: "Hammersmith One";
+  font-size: 70%;
+  text-align: center;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #c4a8ff;
+  font-size: 35px;
+}
+
+.nav-li:hover {
+  background-color: #bc6ed4;
+  border-radius: 20px;
+}
